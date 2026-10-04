@@ -121,13 +121,15 @@ student-class-portal/
 ├── package.json
 └── README.md
 
-
 Security
+
 Sensitive credentials such as Firebase service account files and private keys should not be committed to the repository.
+
 For example:
 serviceAccount.json
 
 should remain private.
+
 Future Improvements
 - Historical leaderboard tracking
 - More coding analytics
@@ -136,9 +138,7 @@ Future Improvements
 - Additional academic resources
 - Automated leaderboard updates
 - Improved mobile responsiveness
+
 Author
 M Antony Rojes Corera
-III CSE-A
-KPR Institute of Engineering and Technology
-Roll No: 24CS017
 ```
